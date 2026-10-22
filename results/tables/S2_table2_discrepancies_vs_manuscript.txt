@@ -1,0 +1,9 @@
+oryza-1 (OsMC6, LOC_Os01g58580): start 33869141 vs 33869142 (GFF3 is 1-based; off by 1); 'protein length' 418 counts the stop codon; actual protein = 417 aa
+oryza-2 (OsMC8, LOC_Os03g27190): start 15567898 vs 15567899 (GFF3 is 1-based; off by 1); 'protein length' 303 counts the stop codon; actual protein = 302 aa
+oryza-3 (OsMC1, LOC_Os03g27120): start 15530612 vs 15530613 (GFF3 is 1-based; off by 1); 'protein length' 369 counts the stop codon; actual protein = 368 aa
+oryza-4 (OsMC2, LOC_Os03g27210): start 15584825 vs 15584826 (GFF3 is 1-based; off by 1); 'protein length' 370 counts the stop codon; actual protein = 369 aa
+oryza-5 (OsMC3, LOC_Os03g27170): start 15563468 vs 15563469 (GFF3 is 1-based; off by 1); 'protein length' 401 counts the stop codon; actual protein = 400 aa
+oryza-6 (NOT_A_METACASPASE, LOC_Os09g36640): start 21142247 vs 21142248 (GFF3 is 1-based; off by 1); 'protein length' 380 counts the stop codon; actual protein = 379 aa
+oryza-7 (OsMC4, LOC_Os05g41660): start 24383179 vs 24383180 (GFF3 is 1-based; off by 1); 'protein length' 410 counts the stop codon; actual protein = 409 aa
+oryza-8 (OsMC5, LOC_Os05g41670): start 24384900 vs 24384901 (GFF3 is 1-based; off by 1); 'protein length' 421 counts the stop codon; actual protein = 420 aa
+oryza-9 (OsMC7, LOC_Os11g04010): start 1616647 vs 1616648 (GFF3 is 1-based; off by 1); 'protein length' 342 counts the stop codon; actual protein = 341 aa
