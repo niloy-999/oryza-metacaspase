@@ -1,0 +1,9 @@
+gene	exons	start	stop	internal_stops	intron_dinucleotides
+OsMC1	4	ATG	*	0	GT..AG,GT..AG,GT..AG
+OsMC2	3	ATG	*	0	GT..AG,GT..AG
+OsMC3	4	ATG	*	0	GT..AG,GT..AG,GT..AG
+OsMC4	2	ATG	*	0	GT..AG
+OsMC5	2	ATG	*	0	GT..AG
+OsMC6	2	ATG	*	0	GT..AG
+OsMC7	1	ATG	*	0	intronless
+OsMC8	5	ATG	*	0	GT..AG,GT..AG,GT..AG,GT..AG
