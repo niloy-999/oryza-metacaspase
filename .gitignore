@@ -1,0 +1,15 @@
+# raw third-party data (download from Phytozome / Ensembl Plants; see README)
+data/
+phase2/phase2_out/
+phase2/stageC/out/
+*.fa.gz
+*.fasta.gz
+# compiled / generated
+scripts/sw
+__pycache__/
+*.pyc
+*.zip
+.DS_Store
+# local scratch
+*.part
+tmp/

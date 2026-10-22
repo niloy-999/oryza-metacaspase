@@ -1,0 +1,13 @@
+name: oryza-metacaspase
+channels: [conda-forge, bioconda]
+dependencies:
+  - python>=3.10
+  - numpy
+  - matplotlib
+  - python-docx        # only needed to rebuild manuscript files (not included here)
+  - blast              # cross-genome pipeline (phase2/01_fetch_and_extract.py)
+  - hmmer              # optional, Pfam PF00656 evidence
+  - mafft              # phase2/stageC
+  - iqtree             # phase2/stageC
+  - clipkit            # phase2/stageC
+  - hyphy              # optional, selection test in phase2/stageC
