@@ -1,0 +1,8 @@
+pair	chrom	intervening_genes	identity_pct	aligned_coverage_pct	bp_distance	duplication_type
+OsMC1-OsMC2	Chr3	4	55.8	94.0	54213	proximal
+OsMC1-OsMC3	Chr3	1	55.0	92.9	32856	proximal
+OsMC1-OsMC8	Chr3	2	47.3	92.4	37286	proximal
+OsMC2-OsMC3	Chr3	2	73.5	98.1	21357	tandem
+OsMC2-OsMC8	Chr3	1	54.1	93.0	16927	proximal
+OsMC3-OsMC8	Chr3	0	57.8	95.0	4430	proximal
+OsMC4-OsMC5	Chr5	0	67.8	96.6	1721	tandem
