@@ -7,5 +7,5 @@ authors:
   - family-names: "Elahi"
     given-names: "Fazley"
 license: MIT
-repository-code: "https://github.com/YOUR-USERNAME/oryza-metacaspase"
+repository-code: "https://github.com/niloy-999/oryza-metacaspase"
 abstract: "Scripts and derived tables for a residue-level audit of the rice metacaspase family and conservation of the OsMC1 catalytic-residue substitutions across 27 Oryza and Leersia genomes."
